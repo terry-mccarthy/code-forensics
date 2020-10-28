@@ -4,7 +4,7 @@ This is a containerised implementation of [code-forensics](https://github.com/sm
 
 ## Usage
 
-modify gulpfile.js to point to your repo
+Modify gulpfile.js to point to your repo
 
 **gulp**
 
