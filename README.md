@@ -14,6 +14,7 @@ Analysis tasks
 * ruby-complexity-trend-analysis      : Analyse the complexity trend in time for a particular ruby file
 * sum-of-coupling-analysis            : Analyse the sum of coupling for each file
 * temporal-coupling-analysis          : Analyse the evolution of coupling in time for a particular file
+---
 * hotspot-analysis                    : Analyse the complexity and churn of source code to identify hotspots
 * commit-message-analysis             : Analyse the number of occurrencies of commit message words
 * developer-effort-analysis           : Analyse the distribution of effort (revisions) amongst developers/teams

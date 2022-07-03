@@ -19,7 +19,7 @@
 	],
 
 	"mounts": [
-		"source=/Users/tm097654/dev/git,target=/workspaces,type=bind,consistency=cached"
+		"source=/Users/terrymccarthy/work,target=/workspaces,type=bind,consistency=cached",
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [3000],
